@@ -43,7 +43,7 @@
             </lable>
                  <input type="text" name="lname" id="lname" value="<%=lname%>" readonly style="height:25px;width:300px;"><br>
                  <lable for="dob">
-            Date of Bith:-
+            Date OF Bith:-
           </lable>
                  
         <input type="text" name="dob" id="dob" value="<%=dob%>"  readonly style="height:25px;width:300px;"><br>
