@@ -34,7 +34,7 @@
   %>
 <table>
 <tr>
- <td> Employee id:</td><td> <input type="text" name="id" id="id" value="<%=rs.getString(1)%>"readonly style="height:25px;width:300px;" /> </td> 
+ <td> EMPLOYEE id:</td><td> <input type="text" name="id" id="id" value="<%=rs.getString(1)%>"readonly style="height:25px;width:300px;" /> </td> 
 </tr><br>
    <tr>
  <td> First Name :</td><td> <input type="text" name="fname"  id="fname"  value="<%=rs.getString(2)%>" style="height:25px;width:300px;" /> </td> 
